@@ -2,3 +2,5 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
+|35mm Bearing|1|$3.39|https://amzn.to/4n8PNkd|
+|Total: |1|$3.39| |
